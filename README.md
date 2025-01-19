@@ -31,7 +31,6 @@ This is a Spring Boot application that provides a simple currency conversion ser
 
 1. **Java**: Ensure Java JDK 11+ is installed on your machine.
 2. **Maven**: Make sure Maven is installed and configured.
-3. **Node.js** (Optional): For additional development with frontend tools.
 
 ### Steps to Run the Application
 
